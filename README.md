@@ -1,2 +1,6 @@
-# satya
-this is my first file
+#
+ satya  
+ this is my first file.
+
+
+
